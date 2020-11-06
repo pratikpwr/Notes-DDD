@@ -1,14 +1,12 @@
-
-
 import 'package:dartz/dartz.dart';
 import 'package:flutter/foundation.dart';
-import 'package:note_ddd/domain/auth/value_objects.dart';
+import 'package:note_ddd/domain/core/failures.dart';
 
 @immutable
 abstract class ValueObject<T> {
   ValueObject();
-  Either<ValueFailure<T>, T> get value;
 
+  Either<ValueFailure<T>, T> get value;
 
   @override
   bool operator ==(Object other) {
