@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51329647513",
+    "firebase_url": "https://note-ddd-805a2.firebaseio.com",
+    "project_id": "note-ddd-805a2",
+    "storage_bucket": "note-ddd-805a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51329647513:android:9a5210c8a72f8f61d34908",
+        "android_client_info": {
+          "package_name": "com.pratik.note_ddd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51329647513-jib1tn86ub9kmtp3clscrmei002laege.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQzqsTBDhv7ek10_zqAXgCOdrr5lMjR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51329647513-jib1tn86ub9kmtp3clscrmei002laege.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
